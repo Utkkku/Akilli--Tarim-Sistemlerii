@@ -1,0 +1,6 @@
+framework module Pods_akilliTarimSon_akilliTarimSonUITests {
+  umbrella header "Pods-akilliTarimSon-akilliTarimSonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
